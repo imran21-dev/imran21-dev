@@ -1,41 +1,91 @@
-# Mohammad Imran - Full-Stack Developer
+<div align="center">
+  <img height="" src="https://i.postimg.cc/Qd378vWJ/Black-and-White-Gradient-Personal-Linked-In-Banner.jpg"  />
+</div>
 
-👋 Hi, I'm **Mohammad Imran**, a passionate and dedicated **Full-Stack Developer**. I specialize in building responsive and user-friendly web applications using modern technologies. I am always eager to explore new tools and frameworks to expand my skill set and enhance my development expertise.
+###
 
-## 🔧 Skills & Technologies
+<h1 align="left">Hi , I'm Imran Sorker</h1>
 
-- **Frontend:** HTML, CSS, Tailwind, JavaScript, React, Next.js
-- **Backend:** Node.js, Express, MongoDB, Firebase
-- **Tools & Libraries:** React Router, Redux, Axios, Lottie, Swiper, Firebase, Git, and more
-- **Version Control:** Git, GitHub
-- **Other:** RESTful APIs, Firebase Authentication, Real-time Data
+###
 
-## 🎓 Education
-- **Currently pursuing CSE** at **Pabna Polytechnic Institute**
+<h3 align="left">Full-Stack Developer</h3>
 
-## 🚀 Projects
+###
 
-### [Flyer Chat App](https://github.com/your-profile/flyer-chat-app)
-Flyer is a minimalist chat application that enables real-time messaging between users. The app provides a seamless and intuitive interface for easy communication.
+<h3 align="left">About Me</h3>
 
-### [MovieSphere](https://github.com/your-profile/moviesphere)
-MovieSphere is a platform that allows users to upload, update, delete, and view movie details, making it easy to manage movie-related information and stay updated with the latest trends in cinema.
+###
 
-## 🌱 Currently Learning
-- **Next.js**: I am exploring the world of **Next.js** for building scalable, server-side rendered web applications with a focus on performance and SEO.
+<h5 align="left">👋 Hi, I'm Mohammad Imran, an aspiring Full-Stack Developer passionate about crafting user-friendly web applications.<br><br>🎓 Currently pursuing CSE at Pabna Polytechnic Institute<br>🌟 Proficient in HTML, CSS, Tailwind, JavaScript, React, Firebase, MongoDB, Node.js<br>🚀 Currently diving into Next.js to expand my skills in modern web development<br>💻 Creator of projects like Flyer Chat App and MovieSphere<br><br>🌱 I love learning and exploring new technologies to bring innovative ideas to life. Let's connect and create something awesome together!</h5>
 
-## 📫 Connect with Me
+###
 
-Feel free to reach out or collaborate on exciting projects. You can connect with me on:
+<h2 align="center">🔧 Skills & Technologies</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- Email: your-email@example.com
+###
 
-## ⚡ Fun Facts
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
+</div>
 
-- I am always looking for opportunities to collaborate on open-source projects.
-- I enjoy solving real-world problems with code.
-- In my free time, I like to explore new technologies and contribute to the developer community.
+###
 
-Let's create something awesome together! ✨
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imran21-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Github%20Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imran21-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Top%20Languages" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=imran21-dev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/imran21-dev/imran21-dev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">⚡ Fun Facts</h3>
+
+###
+
+<p align="left">✅ I am always looking for opportunities to collaborate on open-source projects.<br>✅ I enjoy solving real-world problems with code.<br>✅ In my free time, I like to explore new technologies and contribute to the developer community.<br><br>Let's create something awesome together! ✨</p>
+
+###
+
+<h3 align="left">📫 Connect with Me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/md-imran-sorker-9300091ba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Mohamma85577121" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/916543930072461313" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/imran21-dev/count.svg?"  />
+</div>
+
+###
