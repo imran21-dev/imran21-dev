@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/imran21-dev/imran21-dev/output/snake.svg" alt="Snake animation" />
+<img src="github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 ###
