@@ -55,6 +55,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/imran21-dev/imran21-dev/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/imran21-dev/imran21-dev/blob/output/github-snake-dark.svg)
 
 ###
 
