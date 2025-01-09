@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Frontend Developer</h3>
+<h3 align="left">Full-Stack Developer</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">👋 Hi, I'm Mohammad Imran, an aspiring Frontend Developer passionate about crafting user-friendly web applications.<br><br>🎓 Currently pursuing CSE at Pabna Polytechnic Institute<br>🌟 Proficient in HTML, CSS, Tailwind, JavaScript, React, Firebase, MongoDB, Node.js<br>🚀 Currently diving into Next.js to expand my skills in modern web development<br>💻 Creator of projects like Flyer Chat App and MovieSphere<br><br>🌱 I love learning and exploring new technologies to bring innovative ideas to life. Let's connect and create something awesome together!</h5>
+<h5 align="left">👋 Hi, I'm Mohammad Imran, an aspiring Full-Stack Developer passionate about crafting user-friendly web applications.<br><br>🎓 Currently pursuing CSE at Pabna Polytechnic Institute<br>🌟 Proficient in HTML, CSS, Tailwind, JavaScript, React, Firebase, MongoDB, Node.js<br>🚀 Currently diving into Next.js to expand my skills in modern web development<br>💻 Creator of projects like Flyer Chat App and MovieSphere<br><br>🌱 I love learning and exploring new technologies to bring innovative ideas to life. Let's connect and create something awesome together!</h5>
 
 ###
 
@@ -45,17 +45,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran21-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imran21-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Top%20Languages" height="150" alt="languages graph"  />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=imran21-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imran21-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=imran21-dev&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran21-dev&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/imran21-dev/imran21-dev/output/snake.svg" alt="Snake animation" />
 
 ###
 
