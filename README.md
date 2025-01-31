@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.postimg.cc/8P4bsbZb/Gray-Minimalist-Web-Development-Linkedin-Banner-2.jpg"  />
+  <img height="" src="https://i.postimg.cc/8PSjmY08/Untitled-1-01.jpg"  />
 </div>
 
 ###
