@@ -43,17 +43,17 @@
 </div>
 
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imran21-dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
-</div>
+
 
 
 ###
 <div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imran21-dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imran21-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imran21-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=imran21-dev&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imran21-dev&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  
 </div>
 
 ###
@@ -86,6 +86,9 @@
   <a href="https://discordapp.com/users/916543930072461313" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+</div>
+<div align="left">
+  <h4>📞 +8801301460344</h4>
 </div>
 
 ###
