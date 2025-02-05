@@ -41,8 +41,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
 </div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imran21-dev" alt="GitHub Streak" /></a>
 ###
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imran21-dev" alt="GitHub Streak" /></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imran21-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
